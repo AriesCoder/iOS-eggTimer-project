@@ -11,7 +11,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var timerLabel: UILabel!
     
-    let softMinute = 5
+    let softMinute = 300
     let mediumMinute = 420
     let hardMinute = 720
     override func viewDidLoad() {
